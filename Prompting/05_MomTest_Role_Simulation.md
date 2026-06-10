@@ -55,5 +55,5 @@ Report 폴더와 Prompt 폴더에 보고서와 프롬프트 저장!!!
 
 | 산출물 | 경로 |
 |--------|------|
-| 보고서 | `Report/MomTest_Simulation_Report.md` |
+| 보고서 | `Report/02.MomTest_Simulation_Report.md` |
 | 프롬프트 | `Prompting/05_MomTest_Role_Simulation.md` |
